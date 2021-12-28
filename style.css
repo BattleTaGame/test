@@ -1,0 +1,21 @@
+body {
+	background-color: yellow;
+	margin: 100px;
+	margin-right: 500px;
+}
+.PAC1 {
+	background-color: green;
+	padding-left: 30px;
+	display: inline-block;
+}
+.PAC2 {
+	text-decoration: underline;
+	text-decoration-color: blue;
+}
+.PAC3 {
+	text-decoration: underline;
+	text-decoration-color: blue;
+}
+.H {
+	text-align: center;
+}
